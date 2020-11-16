@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "MAZE Token",
+      "symbol": "MAZE",
+      "decimals": 16,
+      "shortDesc": "Utility token for MAZE Protocol",
+      "desc": "Longest desc"
+    }
+  ]
+}
